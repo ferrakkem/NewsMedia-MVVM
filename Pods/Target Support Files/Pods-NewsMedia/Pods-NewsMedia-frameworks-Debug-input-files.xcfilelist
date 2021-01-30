@@ -1,4 +1,3 @@
 ${PODS_ROOT}/Target Support Files/Pods-NewsMedia/Pods-NewsMedia-frameworks.sh
 ${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
 ${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
-${BUILT_PRODUCTS_DIR}/SkeletonView/SkeletonView.framework

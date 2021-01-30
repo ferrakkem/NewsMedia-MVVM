@@ -6,7 +6,6 @@ target 'NewsMedia' do
   use_frameworks!
 
   # Pods for NewsMedia
-    pod "SkeletonView"
     pod 'RealmSwift'
 
 end

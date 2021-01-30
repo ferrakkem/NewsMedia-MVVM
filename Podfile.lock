@@ -4,23 +4,19 @@ PODS:
   - Realm/Headers (5.5.0)
   - RealmSwift (5.5.0):
     - Realm (= 5.5.0)
-  - SkeletonView (1.10.0)
 
 DEPENDENCIES:
   - RealmSwift
-  - SkeletonView
 
 SPEC REPOS:
   trunk:
     - Realm
     - RealmSwift
-    - SkeletonView
 
 SPEC CHECKSUMS:
   Realm: fb399d76f44042e5cdfc630f33828fdb4d077345
   RealmSwift: 3b7e62356207ef16d34de4e55d475163bd2062bb
-  SkeletonView: 14fbe9702c7fb5c5f011b44ac3ae99fc73155726
 
-PODFILE CHECKSUM: a234c067526c1920512fc6d4fa49fe7a4d4fe0ad
+PODFILE CHECKSUM: 8289d24381ac619a770a36eba08d93aebededca3
 
 COCOAPODS: 1.9.3
